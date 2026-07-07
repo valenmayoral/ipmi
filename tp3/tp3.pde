@@ -122,7 +122,7 @@ void keyPressed() {
   if (key == 'c' || key == 'C') {
     modoOscuro = !modoOscuro;
   }
-  if (key == 'r' || key == 'R') {     // ← Tecla para reiniciar
+  if (key == 'r' || key == 'R') {
     reiniciarPrograma();
   }
 }
