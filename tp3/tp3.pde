@@ -4,7 +4,7 @@
 // Recuperatorio Tp3
 // Tema: OP ART
 // Nro obra: 38
-// Link video: ACA VA EL LINK DEL VIDEO
+// Link video: https://youtu.be/g3oav0BXFqs
 // Correcciones: Falta el video explicativo y faltan funciones propias que no retornen y que retornen valor
 
 
